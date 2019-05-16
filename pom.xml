@@ -18,9 +18,8 @@
     </properties>
 
     <modules>
-        <module>studentAttendanceJS-core</module>
-        <module>studentAttendanceJS-web-common</module>
-        <module>studentAttendanceJS-web-servlet-jsp</module>
+        <module>zyobaLabs/studentAttendance</module>
+       
     </modules>
     
     <packaging>pom</packaging>
